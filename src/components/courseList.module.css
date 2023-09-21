@@ -1,0 +1,31 @@
+.courseList {
+  background-color: skyblue;
+  position: absolute;
+  left: 10%;
+  right: 50%;
+  top: 30%;
+  bottom: 70%;
+  width: 40%;
+  height: 50%;
+  justify-content: center;
+}
+
+.header {
+  background-color: whitesmoke;
+  color: black;
+  gap: 1rem;
+  border: 1rem;
+  justify-content: center;
+  text-align: center;
+}
+.filter {
+  background-color: hsl(224, 100%, 50%);
+  color: antiquewhite;
+  margin: 2rem;
+}
+.class {
+  color: brown;
+}
+.teacher {
+  color: darkgoldenrod;
+}

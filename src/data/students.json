@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Dinesh",
+    "age": 28,
+    "courses": [1]
+  },
+  {
+    "id": 2,
+    "name": "Yogesh",
+    "age": 26,
+    "courses": [2]
+  },
+  {
+    "id": 3,
+    "name": "Prakash",
+    "age": 27,
+    "courses": [3]
+  },
+  {
+    "id": 4,
+    "name": "Madhav",
+    "age": 27,
+    "courses": [4]
+  }
+]

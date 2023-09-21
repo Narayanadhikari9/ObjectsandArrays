@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "Class": "Mathematics",
+    "Instructor": "Mr. Pandu"
+  },
+
+  {
+    "Id": 2,
+    "Class": "phychology",
+    "Instructor": "Dr. Devaki"
+  },
+  {
+    "Id": 3,
+    "Class": "History",
+    "Instructor": "Mr. Gatto"
+  },
+  {
+    "Id": 4,
+    "Class": "science",
+    "Instructor": "Dr. pagal"
+  }
+]

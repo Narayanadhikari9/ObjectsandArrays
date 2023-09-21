@@ -1,0 +1,28 @@
+.studentList {
+  background-color: hsl(50, 100%, 50%);
+  justify-content: center;
+  position: absolute;
+  left: 50%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+  margin: auto;
+  width: 40%;
+  height: 50%;
+}
+.header {
+  background-color: white;
+  color: black;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+}
+.studentName {
+  color: black;
+}
+.studentAge {
+  color: blue;
+}
+.course {
+  color: brown;
+}
